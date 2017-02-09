@@ -6,7 +6,9 @@ This webpart is build using SharePoint Framework (SPFX) with typescript and with
 The calendar to pick the events from can be configured from the edit properties pane as well as we can configure teh number of events to be loaded in the webpart. Also include the sorting option for the sorting the events based on title or eventdate.
 
 Author : Dhaval Shah
+
 Blog : www.dhavalcodes.com
+
 Email : dhaval.shah01@gmail.com
 
 ### Building the code
