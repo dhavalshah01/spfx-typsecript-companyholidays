@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "3c543474-f574-4ba4-b853-2e62dccc7351",
+  "alias": "CompanyHolidaysWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "3c543474-f574-4ba4-b853-2e62dccc7351",
+    "group": { "default": "Under Development" },
+    "title": { "default": "CompanyHolidays" },
+    "description": { "default": "This webpart reads the company holidays events from the calendar" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "CompanyHolidays",
+      "calendarName":"Calendar",
+      "numberOfEvents":1,
+      "calendarList":""
+    }
+  }]
+}

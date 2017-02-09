@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/companyHolidays/CompanyHolidaysWebPart.js",
+      "manifest": "./src/webparts/companyHolidays/CompanyHolidaysWebPart.manifest.json",
+      "outputPath": "./dist/company-holidays.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "companyHolidaysStrings": "webparts/companyHolidays/loc/{locale}.js"
+  }
+}

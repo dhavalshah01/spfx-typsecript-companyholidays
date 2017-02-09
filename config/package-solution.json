@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "companyholidays-webpart-client-side-solution",
+    "id": "7dbb602e-d26b-4843-8c2e-74755b57a3c9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/companyholidays-webpart.sppkg"
+  }
+}
